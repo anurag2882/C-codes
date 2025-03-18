@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <string.h>
 int main()
+// Calculator that can calculate Addtion, Subtraction, Multiplication, Division and SI(Simple Intrest)
+
 {
     char a[20];
     printf("What do you want to calculate (Example: Add, Subtract, Multiply, Divide, SI(Simple Intrest)) : ");
